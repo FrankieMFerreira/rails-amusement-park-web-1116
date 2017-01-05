@@ -12,6 +12,5 @@ class User < ActiveRecord::Base
     else
       "neutral"
     end
-# hi 
   end
 end
